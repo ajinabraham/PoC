@@ -1,1 +1,1 @@
-alert("Hey I am from" + document.domain );
+alert("Hey I am from GitHub");
