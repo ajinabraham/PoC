@@ -1,0 +1,2 @@
+-encryptstrings "SuperZS3cur!ty0R0CK3S"
+-encryptclasses opensecurity.dexreversedemo.MainActivity,opensecurity.dexreversedemo.Secret
